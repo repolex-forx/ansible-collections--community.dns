@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "community.dns",
+  "versions": [
+    {
+      "commit": "81b2f7d9ef881ca09bc5df26f1c3abda7c959665",
+      "tag": "",
+      "parsed_at": "2026-11-07T15:49:27.442659+00:00"
+    }
+  ]
+}
